@@ -12628,9 +12628,24 @@ body.chat-page .message.other .message-content { margin-right: auto !important; 
     
     /* Footer mobile */
     .footer-content {
-        grid-template-columns: 1fr;
-        gap: 2rem;
-        text-align: center;
+        flex-direction: column !important;
+        flex-wrap: wrap !important;
+        gap: 2rem !important;
+        text-align: center !important;
+    }
+    
+    .footer-section {
+        width: 100% !important;
+        flex: none !important;
+        margin-bottom: 1.5rem !important;
+    }
+    
+    .footer-section:last-child {
+        margin-bottom: 0 !important;
+    }
+    
+    .footer {
+        padding: 2rem 0 1rem !important;
     }
     
     /* Utilities */
