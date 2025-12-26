@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "inzerio-inzerce",
+  "private_key_id": "f83210b8e1751c343c77b918f1b7ca3e8e51599a",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQClPJ07fDstODDr\ntiy1yqInCVVkK+Uyf0piYymLs9+4PSPaCvr29U9QMNWwUcKsw+dOE0/ME8CfNt/O\nJKBw0NZ4qATW7siNZOUspKyVaHh8nTwA/MxBPfBO3/k1aPv7eQzbky4Whmpc55g/\nRce9wAomzWA6vbJfb8IrUaVN/W7SRp80GKEfSy2DehPN3yZBI7O8uY6aW0T/3lmz\nm+91QrWN+bYs9+PE5bbDpA0Qjk0Lo0qNWZ6Bz8WxB1OR8LL/FVWyfYLpaa4mWw0O\ne/oG9FALt9/Hh+ogNaIxj5Nmi9674qIYPjFPM5IoAMyI6McOqakffIoRW+w3ohgQ\ndhAHfns3AgMBAAECggEADEPGBfLQL6iSlQRmKC48v/oE4RUTA58IJepnXIvC6Nl8\n7kPPYgJOW0zsp5RCB3HZGuX7D9JNg2Pe093LHOSbbsRF67A4qaoaCqjEeKiS/Ojs\n2cPp41PWIPyl8k1zGrTe+/NeQeTDQ1cbaWLkExUMi9nFsUaAVW4lsvJx+yp7Ddd6\nWdyr9kX0pS4tT4/tvo/SRG+TwNzsBpDRfB5tmNFhQbDJXeMo45ZOP+Lg4y1O5T2t\nbgxl6cAlTBtzgPwdmQcXAEtPVVqISW66/REjKs9bU7KEaLECResyMjmuERjOs/pV\ncihXoWA4FzwWoImsLGo9eXWfjn5UbBgejXimc4tJyQKBgQDobZ+RdkFSPXxKgekv\nqqv0ancpdXL7ueZsAFX0bo2VPoV/bZ6jTxdGuwJqSuB6WOlNk6/BrpKG6NKDm/iZ\nzfv/RogjMgnDuAdPKYou8imQJPbl96SFxK/Vu4/58c8R1a5DyQ64M7MeZPnCaOUj\n0742amgtBNonZ9x+972ZLrAxeQKBgQC1/ot9Vg0mY922DJzTHkQhTDcs/sU+OPOj\nBu1fgL+zPSoCCH9kJ2+PraJOOa7fKv/yGJcn8PGQ+IfFi1Df2RkgJNgbZiB+aufP\nRYiAl3YlVeHV1MKvzQn2l6IRPrJxjS96aYJ5x7PX6W9njmG/l087rRn+XkSEMM/1\nKUmBi80WLwKBgFIJv3S8ZLn+ccxqpj/o4eDXY1AC4J7xMt+UDsLD8r1m3//mVUQX\nOoQApg2WeD02/MIhCrw2PgnYS9WgS9Md3YBxCMRDeSbX4dyTMO75EqqKIYtyKWP9\n1IKAPYVfUFNfNK9AXC2wMdzcjzuLgrVum4jhbfvV5ppaEn3OO+HBlPchAoGAXPeo\nvd/lW8UMDuEmg1okp3XNgbirfXuOSatSOsUEKEWIXf2FRd43SQgDrz4cLHhEwqD5\nJjgYzluGz8y5BYBbK2Zm1qg21R07SVBVyIqWmb/jW14SDcgJ3OPcsD583TCoHjoj\nop33KsZeWGINYNeka/GjI6N4EKb2tF/g4sJNg5UCgYEA47MTU6ZJQeatNeEiyJY0\n+clJFuPpsK2HWEQjxqWxQWMTmgWoTHxfhHAwIoEFVUMMT4KExoHEBVWYkh/OmfCp\nEzpNLXG/HE64NesVuzyBlkF587g5qKfvlCfB2nf4Id9Ez+kFz8jYsZUkt4vmaWT1\nj5UxrIfTkb+uxCf8MdqJ0z4=\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-deploy@inzerio-inzerce.iam.gserviceaccount.com",
+  "client_id": "111939162230227910820",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-deploy%40inzerio-inzerce.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
